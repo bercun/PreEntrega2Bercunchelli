@@ -78,7 +78,7 @@
         text-shadow: 0 0 2px white;
         margin-bottom: 0;
     }
-
+    /* inicio de presentacion de productos */
     .prod-left {
         background-image: url(./img/pastafrola_cerca.jpg);
         height: 200px;
@@ -118,6 +118,9 @@
         padding: 20px;
     }
 
+    /* fin de presentacion de productos */
+    /* inicio de presentacion de sevicios */
+
     .serv-left {
         background-image: url(./img/yo_cortando.jpg);
         height: 200px;
@@ -155,6 +158,17 @@
     .serv3-right {
         padding: 20px;
     }
+/* fin de presentacion de sevicios */
+
+/* inico de lista de productos pagProductos.html */
+
+    .tablas-prodcuctos{
+        width: 90% ;
+        margin: 0 auto;
+
+    }
+
+/* fin de lista de productos pagProductos.html */
 
 
     /* inicio de footer */
