@@ -160,6 +160,30 @@
     }
 /* fin de presentacion de sevicios */
 
+
+
+/* inico de encabezado de productos pagProductos.html */
+    h3{
+        margin-left: 10px;
+    }
+
+/* fin  de encabezado de productos pagProductos.html */
+
+
+ /* inicio imagen de corte productos 2  */
+    div .imagen-de-coerte2 {
+        width: 100%;
+        height: auto;
+        margin-left: 50px;
+        background-image: url(./img/pan_d_lado.jpg);
+        background-size: cover;
+        background-position: center;
+        
+    }
+    
+
+/* fin imagen de corte productos 2  */
+
 /* inico de lista de productos pagProductos.html */
 
     .tablas-prodcuctos{
